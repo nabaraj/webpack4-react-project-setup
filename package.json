@@ -1,7 +1,7 @@
 {
   "name": "webpack-react",
   "version": "1.0.0",
-  "description": "React project build setup.",
+  "description": "React project build setup using webpack 4.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "react",
     "babel"
   ],
-  "author": "",
+  "author": "Nabaraj Saha",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.4",
