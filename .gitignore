@@ -17,4 +17,4 @@ node_modules
 build
 
 #Ignore package lock
-.package-lock.json
+package-lock.json
