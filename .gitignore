@@ -15,3 +15,6 @@ node_modules
 
 #Ignore build folder
 build
+
+#Ignore package lock
+.package-lock.json
